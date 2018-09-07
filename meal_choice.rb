@@ -3,4 +3,5 @@
 def mealsOnWheels(meal_choice = "meat")
   puts "I want to eat #{meal_choice}."
   meal_choice
+
 end
